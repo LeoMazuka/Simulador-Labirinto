@@ -38,9 +38,9 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito por :
--Leonardo 
--Renan
--Gabriel
--Samuel
--Daniel
--Vitor
+- Leonardo
+- Gabriel
+- Renan
+- Samuel
+- Daniel
+- Vitor
